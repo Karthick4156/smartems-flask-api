@@ -1,0 +1,239 @@
+2026-05-03 18:59:44,509 | INFO | app | Logger initialized successfully
+2026-05-03 19:00:11,373 | INFO | app | Logger initialized successfully
+2026-05-03 19:01:11,714 | INFO | app | Logger initialized successfully
+2026-05-03 19:04:03,690 | INFO | app | Logger initialized successfully
+2026-05-03 19:07:39,532 | INFO | app | Logger initialized successfully
+2026-05-03 19:21:52,361 | INFO | app | Logger initialized successfully
+2026-05-03 19:22:33,238 | INFO | app | Logger initialized successfully
+2026-05-03 19:23:15,574 | INFO | app | Logger initialized successfully
+2026-05-03 19:23:21,865 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-03 19:24:12,929 | INFO | app | Logger initialized successfully
+2026-05-03 19:24:12,930 | INFO | app | App started successfully
+2026-05-03 19:25:50,002 | INFO | app | Logger initialized successfully
+2026-05-03 19:25:50,002 | INFO | app | App started successfully
+2026-05-03 19:26:00,468 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 07:56:53,498 | INFO | app | Logger initialized successfully
+2026-05-04 07:56:53,499 | INFO | app | App started successfully
+2026-05-04 07:57:18,312 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 07:57:27,958 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 08:00:42,513 | INFO | app | Logger initialized successfully
+2026-05-04 08:00:42,514 | INFO | app | App started successfully
+2026-05-04 08:00:45,897 | INFO | app | Logger initialized successfully
+2026-05-04 08:00:45,897 | INFO | app | App started successfully
+2026-05-04 08:07:34,519 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 08:07:57,850 | INFO | app | Logger initialized successfully
+2026-05-04 08:07:57,850 | INFO | app | App started successfully
+2026-05-04 08:16:03,256 | ERROR | app | Unhandled error: You already have a leave request for this date range
+2026-05-04 08:33:55,918 | INFO | app | Logger initialized successfully
+2026-05-04 08:33:55,918 | INFO | app | App started successfully
+2026-05-04 08:34:09,277 | INFO | app | User logged in: admin@ems.com
+2026-05-04 08:49:50,190 | INFO | app | Logger initialized successfully
+2026-05-04 08:49:50,190 | INFO | app | App started successfully
+2026-05-04 08:52:16,248 | INFO | app | Logger initialized successfully
+2026-05-04 08:52:16,248 | INFO | app | App started successfully
+2026-05-04 08:52:36,188 | INFO | app | Logger initialized successfully
+2026-05-04 08:52:36,188 | INFO | app | App started successfully
+2026-05-04 08:53:05,730 | INFO | app | User logged in: admin@ems.com
+2026-05-04 08:53:11,360 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 08:53:11,361 | ERROR | app | Unhandled error: name 'paginate_query' is not defined
+2026-05-04 08:53:51,562 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 08:53:51,562 | ERROR | app | Unhandled error: name 'paginate_query' is not defined
+2026-05-04 08:56:38,489 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 08:56:38,490 | ERROR | app | Unhandled error: name 'paginate_query' is not defined
+2026-05-04 08:57:31,401 | INFO | app | Logger initialized successfully
+2026-05-04 08:57:31,401 | INFO | app | App started successfully
+2026-05-04 08:57:37,304 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 09:13:49,814 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 09:14:04,652 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 09:15:49,053 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 09:16:47,650 | INFO | app | User logged in: krish@ems.com
+2026-05-04 09:57:36,319 | INFO | app | Logger initialized successfully
+2026-05-04 09:57:36,320 | INFO | app | App started successfully
+2026-05-04 09:59:29,469 | INFO | app | Logger initialized successfully
+2026-05-04 09:59:29,470 | INFO | app | App started successfully
+2026-05-04 10:05:35,384 | INFO | app | Logger initialized successfully
+2026-05-04 10:05:35,384 | INFO | app | App started successfully
+2026-05-04 10:09:01,557 | INFO | app | Logger initialized successfully
+2026-05-04 10:09:01,558 | INFO | app | App started successfully
+2026-05-04 10:11:02,336 | INFO | app | Logger initialized successfully
+2026-05-04 10:11:02,336 | INFO | app | App started successfully
+2026-05-04 10:12:51,480 | INFO | app | User logged in: admin@ems.com
+2026-05-04 10:12:54,050 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 10:13:22,296 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 10:13:33,556 | INFO | app | User logged in: krish@ems.com
+2026-05-04 10:19:09,586 | INFO | app | User logged in: admin@ems.com
+2026-05-04 10:19:37,083 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 10:20:52,405 | INFO | app | User logged in: kaviyarasan@ems.com
+2026-05-04 10:22:14,798 | INFO | app | Leave approved: 4
+2026-05-04 10:26:38,176 | ERROR | app | Punch in failed: Already punched in
+2026-05-04 10:27:35,922 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 10:36:41,223 | ERROR | app | Apply leave failed: Leave already exists for this date range
+2026-05-04 10:41:43,910 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 10:42:56,476 | ERROR | app | Apply leave failed: Leave already exists for this date range
+2026-05-04 10:51:16,294 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 11:01:28,193 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 11:13:18,172 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 11:16:16,692 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 11:51:06,371 | INFO | app | User logged in: admin@ems.com
+2026-05-04 11:51:10,175 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-04 11:51:17,258 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-05 07:44:36,620 | INFO | app | Logger initialized successfully
+2026-05-05 07:44:36,622 | INFO | app | App started successfully
+2026-05-05 07:45:04,147 | INFO | app | User logged in: krish@ems.com
+2026-05-05 07:47:34,449 | INFO | app | User logged in: admin@ems.com
+2026-05-05 07:47:39,891 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-05 07:47:55,538 | ERROR | app | Approve correction failed: Cannot approve correction without punch out
+2026-05-05 07:48:20,735 | ERROR | app | Approve correction failed: Cannot approve correction without punch out
+2026-05-05 07:48:58,454 | ERROR | app | Approve correction failed: Cannot approve correction without punch out
+2026-05-05 07:49:07,267 | INFO | app | Logger initialized successfully
+2026-05-05 07:49:07,267 | INFO | app | App started successfully
+2026-05-05 07:49:51,730 | INFO | app | User logged in: krish@ems.com
+2026-05-05 07:50:07,532 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 07:50:26,285 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 07:52:17,616 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 07:59:43,953 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 07:59:59,940 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 08:00:02,909 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:01:02,860 | INFO | app | Logger initialized successfully
+2026-05-05 09:01:02,860 | INFO | app | App started successfully
+2026-05-05 09:09:19,651 | INFO | app | User logged in: karthick@ems.com
+2026-05-05 09:10:13,841 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:12:14,720 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:12:15,990 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:12:17,241 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:12:17,473 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:12:20,227 | ERROR | app | Request correction failed: Correction allowed only for past dates
+2026-05-05 09:18:46,602 | INFO | app | User logged in: admin@ems.com
+2026-05-05 09:18:50,502 | INFO | app | Employees API called with page: 1, pageSize: 10, search: None
+2026-05-05 14:18:17,329 | INFO | app | Logger initialized successfully
+2026-05-05 14:18:17,330 | INFO | app | App started successfully
+2026-05-05 14:18:49,266 | INFO | app | Logger initialized successfully
+2026-05-05 14:18:49,266 | INFO | app | App started successfully
+2026-05-05 14:20:29,944 | INFO | app | Logger initialized successfully
+2026-05-05 14:20:29,944 | INFO | app | App started successfully
+2026-05-05 14:20:50,348 | INFO | app | Logger initialized successfully
+2026-05-05 14:20:50,348 | INFO | app | App started successfully
+2026-05-05 14:22:06,903 | INFO | app | Logger initialized successfully
+2026-05-05 14:22:06,904 | INFO | app | App started successfully
+2026-05-05 14:31:26,271 | INFO | app | Logger initialized successfully
+2026-05-05 14:31:26,271 | INFO | app | App started successfully
+2026-05-05 14:33:47,139 | INFO | app | Logger initialized successfully
+2026-05-05 14:33:47,139 | INFO | app | App started successfully
+2026-05-05 14:34:56,903 | INFO | app | Logger initialized successfully
+2026-05-05 14:34:56,903 | INFO | app | App started successfully
+2026-05-05 14:37:21,153 | INFO | app | User logged in: admin@ems.com
+2026-05-05 14:37:24,494 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:37:24,494 | ERROR | app | Unhandled error: name 'get_paginated_employees' is not defined
+2026-05-05 14:37:32,018 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:37:32,018 | ERROR | app | Unhandled error: name 'get_paginated_employees' is not defined
+2026-05-05 14:39:25,367 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:39:25,367 | ERROR | app | Unhandled error: name 'get_paginated_employees' is not defined
+2026-05-05 14:41:40,704 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:41:40,704 | ERROR | app | Unhandled error: name 'get_paginated_employees' is not defined
+2026-05-05 14:41:47,261 | INFO | app | Logger initialized successfully
+2026-05-05 14:41:47,261 | INFO | app | App started successfully
+2026-05-05 14:41:58,589 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:42:18,259 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:42:20,660 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:42:46,399 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:42:51,816 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-05 14:43:12,257 | INFO | app | User logged in: karthick@ems.com
+2026-05-05 14:43:41,821 | ERROR | app | Unhandled error: name 'rollback' is not defined
+2026-05-05 14:44:39,506 | ERROR | app | Unhandled error: name 'rollback' is not defined
+2026-05-05 14:44:45,377 | INFO | app | Logger initialized successfully
+2026-05-05 14:44:45,377 | INFO | app | App started successfully
+2026-05-06 10:08:36,956 | INFO | app | Logger initialized successfully
+2026-05-06 10:08:36,957 | INFO | app | App started successfully
+2026-05-06 10:09:26,701 | INFO | app | User logged in: admin@ems.com
+2026-05-06 10:09:30,393 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 10:10:25,311 | ERROR | app | Unhandled error: CreateEmployeeSchema.validate_joining_date() got an unexpected keyword argument 'data_key'
+2026-05-06 10:12:47,122 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 10:13:35,217 | ERROR | app | Unhandled error: CreateEmployeeSchema.validate_joining_date() got an unexpected keyword argument 'data_key'
+2026-05-06 10:14:34,925 | ERROR | app | Unhandled error: CreateEmployeeSchema.validate_joining_date() got an unexpected keyword argument 'data_key'
+2026-05-06 10:16:07,948 | INFO | app | Logger initialized successfully
+2026-05-06 10:16:07,948 | INFO | app | App started successfully
+2026-05-06 10:16:18,587 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 10:17:02,440 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 10:17:38,062 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 12:07:17,713 | INFO | app | User logged in: admin@ems.com
+2026-05-06 12:07:21,027 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 12:07:25,758 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 12:08:01,932 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 12:08:27,627 | INFO | app | User logged in: karthick@ems.com
+2026-05-06 12:09:08,218 | ERROR | app | Request correction failed: Attendance record not found
+2026-05-06 12:09:26,172 | ERROR | app | Unhandled error: 405 Method Not Allowed: The method is not allowed for the requested URL.
+2026-05-06 12:09:26,248 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 12:11:55,376 | ERROR | app | Request correction failed: Attendance record not found
+2026-05-06 12:16:07,900 | INFO | app | Logger initialized successfully
+2026-05-06 12:16:07,900 | INFO | app | App started successfully
+2026-05-06 12:16:10,328 | INFO | app | Checking attendance for employee=1, target_date=2026-05-04
+2026-05-06 12:16:10,337 | ERROR | app | Request correction failed: Attendance record not found
+2026-05-06 12:17:19,706 | INFO | app | Checking attendance for employee=1, target_date=2026-05-04
+2026-05-06 12:17:19,710 | ERROR | app | Request correction failed: Attendance record not found
+2026-05-06 12:47:20,912 | INFO | app | Logger initialized successfully
+2026-05-06 12:47:20,912 | INFO | app | App started successfully
+2026-05-06 12:47:29,003 | INFO | app | Checking attendance for employee=1, target_date=2026-05-04
+2026-05-06 12:47:29,010 | ERROR | app | Request correction failed: Attendance record not found
+2026-05-06 12:49:15,909 | INFO | app | Logger initialized successfully
+2026-05-06 12:49:15,910 | INFO | app | App started successfully
+2026-05-06 12:49:35,856 | INFO | app | Checking attendance for employee=1, target_date=2026-05-05
+2026-05-06 12:51:07,498 | INFO | app | User logged in: admin@ems.com
+2026-05-06 12:51:53,616 | INFO | app | User logged in: karthick@ems.com
+2026-05-06 17:30:06,256 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:30:27,042 | INFO | app | Logger initialized successfully
+2026-05-06 17:30:27,042 | INFO | app | App started successfully
+2026-05-06 17:30:30,527 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:30:48,970 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:31:06,370 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:31:25,409 | INFO | app | User logged in: admin@ems.com
+2026-05-06 17:40:13,269 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:41:58,506 | ERROR | app | Approve leave failed: Already processed
+2026-05-06 17:45:02,859 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 17:47:21,256 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 17:48:50,629 | ERROR | app | Unhandled error: 'joiningDate'
+2026-05-06 17:52:04,590 | ERROR | app | Unhandled error: 405 Method Not Allowed: The method is not allowed for the requested URL.
+2026-05-06 17:52:39,476 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:53:34,680 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:53:39,798 | ERROR | app | Unhandled error: 405 Method Not Allowed: The method is not allowed for the requested URL.
+2026-05-06 17:54:04,815 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 17:55:18,649 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 17:56:38,913 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 17:56:44,581 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 17:57:33,375 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 18:23:33,489 | ERROR | app | Unhandled error: 405 Method Not Allowed: The method is not allowed for the requested URL.
+2026-05-06 18:24:41,907 | ERROR | app | Unhandled error: 'newPassword'
+2026-05-06 18:27:24,897 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 18:28:03,460 | INFO | app | Employees API called page=1 pageSize=10 search=None
+2026-05-06 19:17:48,930 | INFO | app | User logged in: admin@ems.com
+2026-05-06 20:39:46,207 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 20:40:25,199 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 20:42:25,907 | INFO | app | User logged in: admin@ems.com
+2026-05-06 20:46:20,468 | ERROR | app | Approve leave failed: Already processed
+2026-05-06 20:49:01,174 | ERROR | app | Approve correction failed: Already processed
+2026-05-06 20:49:49,169 | ERROR | app | Reject correction failed: Already processed
+2026-05-06 20:58:35,799 | INFO | app | Logger initialized successfully
+2026-05-06 20:58:35,800 | INFO | app | App started successfully
+2026-05-06 20:59:12,783 | INFO | app | User logged in: admin@ems.com
+2026-05-06 20:59:36,736 | INFO | app | Toggle employee status started emp_id=5 is_active=False
+2026-05-06 20:59:36,758 | INFO | app | Toggle employee status success emp_id=5 old_status=AccountStatus.Inactive new_status=AccountStatus.Inactive
+2026-05-06 21:01:32,376 | INFO | app | Toggle employee status started emp_id=5 is_active=False
+2026-05-06 21:01:32,388 | INFO | app | Toggle employee status success emp_id=5 old_status=AccountStatus.Inactive new_status=AccountStatus.Inactive
+2026-05-06 21:02:19,576 | INFO | app | Toggle employee status started emp_id=5 is_active=False
+2026-05-06 21:02:19,587 | INFO | app | Toggle employee status success emp_id=5 old_status=AccountStatus.Inactive new_status=AccountStatus.Inactive
+2026-05-06 21:02:42,535 | INFO | app | Logger initialized successfully
+2026-05-06 21:02:42,535 | INFO | app | App started successfully
+2026-05-06 21:02:47,413 | ERROR | app | Unhandled error: name 'current_app' is not defined
+2026-05-06 21:03:31,697 | INFO | app | Logger initialized successfully
+2026-05-06 21:03:31,698 | INFO | app | App started successfully
+2026-05-06 21:03:52,485 | INFO | app | Logger initialized successfully
+2026-05-06 21:03:52,486 | INFO | app | App started successfully
+2026-05-06 21:03:56,478 | INFO | app | Toggle employee status started emp_id=5 is_active=None
+2026-05-06 21:03:56,479 | INFO | app | Toggle employee status started emp_id=5 is_active=False
+2026-05-06 21:03:56,586 | INFO | app | Toggle employee status success emp_id=5 old_status=AccountStatus.Inactive new_status=AccountStatus.Inactive
+2026-05-06 21:06:25,133 | ERROR | app | Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2026-05-06 21:11:23,034 | INFO | app | Toggle employee status started emp_id=5 is_active=true
+2026-05-06 21:11:23,035 | INFO | app | Toggle employee status started emp_id=5 is_active=True
+2026-05-06 21:11:23,108 | INFO | app | Toggle employee status success emp_id=5 old_status=AccountStatus.Inactive new_status=AccountStatus.Active
+2026-05-06 21:14:48,802 | INFO | app | User logged in: karthick@ems.com
+2026-05-06 21:17:11,104 | ERROR | app | Unhandled error: 405 Method Not Allowed: The method is not allowed for the requested URL.
+2026-05-06 21:19:43,315 | ERROR | app | Unhandled error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
