@@ -17,7 +17,7 @@ with app.app_context():
         admin = User(
             user_id="ADM001",
             email="admin@ems.com",
-            password_hash=hash_password("admin123"),
+            password_hash=hash_password("Admin@123"),
             role=UserRole.Admin,
             status=AccountStatus.Active
         )
